@@ -14,8 +14,6 @@ GitHub
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Rust Programming Language](https://doc.rust-lang.org/std/fs/struct.File.html)
 - [Youtube: Derek Banas](https://www.youtube.com/watch?v=ygL_xcavzQ4&t=1581s)
 
