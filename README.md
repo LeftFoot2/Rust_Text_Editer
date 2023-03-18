@@ -9,7 +9,7 @@ For this project I set out to learn some of the basics of the Rust language. To 
 Visual Studio Code
 Rust-Analyzer
 
-Rust
+Rust - version 1.67.1
 GitHub
 
 # Useful Websites
